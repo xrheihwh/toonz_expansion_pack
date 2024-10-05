@@ -3,10 +3,11 @@ An expansion pack for OpenToonz or any derivative such as Tahoma2D. It's a bundl
 
 In alphabetical order, you'll find the following types of ehancements for OpenToonz or Tahoma2D
 
+* C Wrapper around the low level toonz API
 * GLSL Shaders
 * MyPaint Brushes
+* MacroFX examples of combining nodes together to make effects without having to dig deep into the API
 * Particles
-* A wrapper around the low level API that lets you do effects in C.
 * Textures
 * User Themes
 

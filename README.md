@@ -3,7 +3,7 @@ An expansion pack for OpenToonz or any derivative such as Tahoma2D. It's a bundl
 
 In alphabetical order, you'll find the following types of ehancements for OpenToonz or Tahoma2D
 
-* C Wrapper around the low level toonz API
+* C Wrapper around the low level toonz API and show off a few examples using libvips (LGPL licensed)
 * GLSL Shaders
 * MyPaint Brushes
 * MacroFX examples of combining nodes together to make effects without having to dig deep into the API

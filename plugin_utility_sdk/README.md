@@ -4,4 +4,4 @@ Plugins are meant to be compiled against the operating system. They're to be bui
 
 Tahoma2D and OpenToonz from toonz sources do show off a few additional utils not used by the wrapper. Its not part of this repo because its not a core part of the sdk. You can find the sources to wolf or dwango plugins [here](https://www.github.com/tahoma2d/tahoma2d_plugins) or under the opentoonz plugins repo.
 
-In the include subdir is all the header files needed and the ctoonz_source contains the C wrapper sources. All my files are under zlib, rest is under the 3-Clause BSD license.
+In the include subdir is all the header files needed and the ctoonz_source contains the C wrapper sources. All my files are under zlib, Toonz soures are under the 3-Clause BSD license, libvips is under the LGPL.

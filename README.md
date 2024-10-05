@@ -3,7 +3,7 @@ An expansion pack for OpenToonz or any derivative such as Tahoma2D. It's a bundl
 
 In alphabetical order, you'll find the following types of ehancements for OpenToonz or Tahoma2D
 
-* A wrapper around the low level toonz API for quick creation of plugins. Also contains examples using libvips.
+* Documentation, examples, and recipies for visual effects in OpenToonz and Tahoma2D. Some of it may have to be compiled with a compiler outside of toonz.
 * GLSL Shaders
 * MyPaint Brushes
 * MacroFX examples of combining nodes together to make effects without having to dig deep into the API

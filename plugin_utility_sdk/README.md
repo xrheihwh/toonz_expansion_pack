@@ -1,4 +1,4 @@
-Toonz along with OpenToonz and Tahoma2D has an SDK for plugins using a low level COM like API. The core consists of 3 header files that can be used with C or C++ (The core headers do not use C++ specific stuff like STL or any additional extra library), there are in addition a few util headers that are optional (Requires C++ however) and a wrapper header that's C++ specific which is how you're meant to use the low level SDK. I will demonstrate by implementing a few graphicsmagick examples.
+Toonz along with OpenToonz and Tahoma2D has an SDK for plugins using a low level COM like API. The core consists of 3 header files that can be used with C or C++ (The core headers do not use C++ specific stuff like STL or any additional extra library), there are in addition a few util headers that are optional (Requires C++ however) and a wrapper header that's C++ specific which is how you're meant to use the low level SDK. This is going to be a C wrapper and a few examples to show it off.
 
 Plugins are meant to be compiled against the operating system. They're to be built with gcc/clang if C or g++/clang++ if C++.
 

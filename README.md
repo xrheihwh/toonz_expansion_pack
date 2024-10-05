@@ -6,7 +6,7 @@ In alphabetical order, you'll find the following types of ehancements for OpenTo
 * GLSL Shaders
 * MyPaint Brushes
 * Particles
-* A wrapper I created around the low level SDK to demonstrate how flexible toonz is by implementing graphicsmagick
+* A wrapper around the low level API that lets you do effects in C. Will demonstrate a couple of examples.
 * Textures
 * User Themes
 

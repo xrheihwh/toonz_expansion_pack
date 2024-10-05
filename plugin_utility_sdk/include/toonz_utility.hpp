@@ -18,8 +18,8 @@
 
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-#include <toonz_plugin.h>
-#include <toonz_hostif.h>
+#include "toonz_plugin.h"
+#include "toonz_hostif.h"
 
 #ifdef _MSC_VER
 #define EXPORT __declspec(dllexport)

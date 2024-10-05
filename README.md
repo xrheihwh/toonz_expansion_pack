@@ -1,4 +1,5 @@
 # Toonz Expansion Pack
+It's all 3 separate words, the underscores were just for the repository name.
 An expansion pack for OpenToonz or any derivative such as Tahoma2D. It contains guides, recipies, and even installable enhancements for OpenToonz and Tahoma2D. There already exists user documentation for both Tahoma2D and OpenToonz, this is my personal guide for myself or anyone reading how to extend it. You'll find below something I want to touch up on in some form, either be it documentation in the docs subdir or new content:
 
 ## MYPAINT Brushes

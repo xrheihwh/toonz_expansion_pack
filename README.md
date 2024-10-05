@@ -6,7 +6,7 @@ In alphabetical order, you'll find the following types of ehancements for OpenTo
 * GLSL Shaders
 * MyPaint Brushes
 * Particles
-* A wrapper around the low level API that lets you do effects in C. Will demonstrate a couple of examples.
+* A wrapper around the low level API that lets you do effects in C.
 * Textures
 * User Themes
 

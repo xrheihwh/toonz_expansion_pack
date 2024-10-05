@@ -3,15 +3,12 @@ An expansion pack for OpenToonz or any derivative such as Tahoma2D. It's a bundl
 
 In alphabetical order, you'll find the following types of ehancements for OpenToonz or Tahoma2D
 
-## GLSL Shaders
-
-## MyPaint Brushes
-
-## Particles
-
-## Plugin Utility SDK
-
-## User Themes
+* GLSL Shaders
+* MyPaint Brushes
+* Particles
+* Plugin Utility SDK
+* Textures
+* User Themes
 
 # Licensing
 My stuff written new is under the zlib license, see a file named COPYING for the license. Everything else is under the license choice of the upstream user.

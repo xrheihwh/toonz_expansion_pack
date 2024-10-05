@@ -1,1 +1,0 @@
-/*Toonz C Wrapper*/

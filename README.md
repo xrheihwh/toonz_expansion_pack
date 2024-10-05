@@ -6,7 +6,7 @@ In alphabetical order, you'll find the following types of ehancements for OpenTo
 * GLSL Shaders
 * MyPaint Brushes
 * Particles
-* Plugin Utility SDK
+* A wrapper I created around the low level SDK to demonstrate how flexible toonz is by implementing graphicsmagick
 * Textures
 * User Themes
 

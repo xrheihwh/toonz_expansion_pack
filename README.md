@@ -1,5 +1,5 @@
 # Toonz Expansion Pack
-This little expansion pack is for stuff in toonz such as OpenToonz or Tahoma2D I plan on using myself. It's a personal repository of enhancements that I'm creating that you may use yourself freely. Here's a list of some but not limited to ways you extend toonz:
+This little expansion pack is for stuff in toonz such as OpenToonz or Tahoma2D I plan on using myself. It's a personal repository of enhancements that I'm creating that you may use yourself freely. Also contained is reference docs on how to make your own. Here's a list of some but not limited to ways you extend toonz:
 
 ## MYPAINT Brushes
 OpenToonz and Tahoma2D has 3 different types of brushes. Vector similar to flash, Raster which uses MyPaint as the engine, and smart raster which is more limited but like vector you can change some of it like the colours at will. MyPaint is a very good library that lets you make your own brushes. Graphite pencils, oil painting, or markers are such brushes using a simple json file called myb. So it's trivial to make your own brushes. OpenToonz and Tahoma2D comes with a number of packs already with a few other ones also available.

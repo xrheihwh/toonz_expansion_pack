@@ -1,6 +1,6 @@
 # Toonz Expansion Pack
 It's all 3 separate words, the underscores were just for the repository name.
-An expansion pack for OpenToonz or any derivative such as Tahoma2D. It contains guides, recipies, and even installable enhancements for OpenToonz and Tahoma2D. There already exists user documentation for both Tahoma2D and OpenToonz, this is my personal guide for myself or anyone reading how to extend it. There however is a limit, that is, I'm not here to teach you OpenGL or how to implment a third party library (That would be something of a completely different repo and greatly creep into the repository intention), but rather I'm here to show you what could be done with toonz. OpenToonz/Tahoma2D has many different ways you can extend it such as:
+My own expansion pack for OpenToonz or any derivative such as Tahoma2D, meant for personal use that you can use as well freely. Toonz is a powerhouse of animation software, just some of the things you can do to expand or enhance it are:
 
 ## MYPAINT Brushes
 OpenToonz and Tahoma2D has 3 different types of brushes. Vector similar to flash, Raster which uses MyPaint as the engine, and smart raster which is more limited but like vector you can change some of it like the colours at will. MyPaint is a very good library that lets you make your own brushes. Graphite pencils, oil painting, or markers are such brushes using a simple json file called myb. So it's trivial to make your own brushes. OpenToonz and Tahoma2D comes with a number of packs already with a few other ones also available.
@@ -26,8 +26,9 @@ This is something interesting for those who want to do it. Toonz based programs 
 ## ROOMS
 What toonz calls rooms are a bunch of tabs with different importance. OpenToonz comes with a number of rooms for the xsheet (Something that dates back to the 30s with traditional animation) or the Fx interface, the animation itself, or whatever you desire. You can delete or make your own rooms in a plain text file in the correct location. This lets you enhance your workflow to fit your needs.
 
-## OTHER
-There is bound to be something I missed or forgot. This will be updated as I go along.
+---
+
+That's a lot of things to focus on. What I am going to focus on is the visual effects ends of things. Shaders (OpenGL), Particles, Macros, and even a plugin or two are to be what you'll find in this repository. I'm not going to teach you OpenGL or C++, but I will teach you through example what toonz can do.
 
 # Licensing
 All this is licensed under the zlib license, see COPYING for details.

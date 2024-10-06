@@ -28,7 +28,7 @@ What toonz calls rooms are a bunch of tabs with different importance. OpenToonz 
 
 ---
 
-That's a lot of things to focus on. What I am going to focus on is the visual effects ends of things. Shaders (OpenGL), Particles, Macros, and even a plugin or two are to be what you'll find in this repository
+That's a lot of things to focus on. What I am going to focus on is the visual effects ends of things. Shaders (OpenGL), Particles, Macros, and even a plugin or two are to be what you'll find in this repository. The primary focus is on GLSL shaders, but it's completely possible particles or macros or plugins will be introduced.
 
 # Licensing
 All this is licensed under the zlib license, see COPYING for details.
